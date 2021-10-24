@@ -9,4 +9,6 @@ Next open the JDA Bot code in IntelliJ.
 
 Then locate the Main.java file.
 
+Add you bot token.
+
 Finally run the file by pressing the play button.
